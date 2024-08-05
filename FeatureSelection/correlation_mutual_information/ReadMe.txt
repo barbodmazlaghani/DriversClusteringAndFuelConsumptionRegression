@@ -1,0 +1,1 @@
+in feature_engineering.py, we use two methods : 1.correlation matrix 2.mutual information to find most important features on a specific task.

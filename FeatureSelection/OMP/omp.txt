@@ -1,0 +1,9 @@
+Selected features for predicting fuel consumption average:
+speed_var
+acc_pedal_var
+eng_speed_avg
+eng_speed_var
+two_gear_percentage
+four_gear_percentage
+five_gear_percentage
+six_gear_percentage

@@ -1,0 +1,1 @@
+new_data_extraction.py uses main data files and extract its required features, it also generates new features like acceleration that gives us new information and can improve our model, finally it exports its data in an excel file.
